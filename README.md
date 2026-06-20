@@ -54,7 +54,7 @@ cd Quazar-server
 npm install
 cp .env.example .env   # fill in your database credentials
 npm run dev
-
+```
 ---
 
 ### Frontend
@@ -62,14 +62,14 @@ npm run dev
 cd Quazar-client
 npm install
 npm start
-
+```
 ### Launcher (Flutter)
 ```bash
 cd Quazar-launcher
 flutter pub get
 flutter run -d windows   # or android
 Note: The live demo hosted on Railway may be paused due to free-tier sleeping policy. The code is fully functional and can be run locally.
-
+```
 ## 🧪 Testing
 Extensive testing was performed:
 
