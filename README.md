@@ -63,6 +63,8 @@ cd Quazar-client
 npm install
 npm start
 ```
+---
+
 ### Launcher (Flutter)
 ```bash
 cd Quazar-launcher
@@ -70,6 +72,8 @@ flutter pub get
 flutter run -d windows   # or android
 Note: The live demo hosted on Railway may be paused due to free-tier sleeping policy. The code is fully functional and can be run locally.
 ```
+---
+
 ## 🧪 Testing
 Extensive testing was performed:
 
