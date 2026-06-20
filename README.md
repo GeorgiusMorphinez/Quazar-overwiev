@@ -49,7 +49,7 @@ This repository serves as a **navigation hub** for the entire project. It contai
 ## 📄 Documentation & Presentation
 
 - **Thesis report (Russian):** [Download PDF](./docs/Thesis_Quazar.pdf)
-- **Defense presentation (Russian):** [Download PDF/PPTX](./docs/Presentation_Quazar.pptx)
+- **Defense presentation (Russian):** [Download PPTX](./docs/Presentation_Quazar.pptx)
 - **ER-diagram, SADT, DFD, Use Case diagrams:** Included in the report
 
 ---
