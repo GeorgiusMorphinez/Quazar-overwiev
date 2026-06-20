@@ -54,3 +54,37 @@ cd Quazar-server
 npm install
 cp .env.example .env   # fill in your database credentials
 npm run dev
+
+---
+
+### Frontend
+```bash
+cd Quazar-client
+npm install
+npm start
+
+### Launcher (Flutter)
+```bash
+cd Quazar-launcher
+flutter pub get
+flutter run -d windows   # or android
+Note: The live demo hosted on Railway may be paused due to free-tier sleeping policy. The code is fully functional and can be run locally.
+
+## 🧪 Testing
+Extensive testing was performed:
+
+Manual UI testing with both USER and ADMIN roles
+
+API testing using Postman
+
+Integration testing for checkout, subscription renewal, account delivery
+
+All critical bugs (e.g., account ownership visibility) have been fixed
+
+## 🏆 Diploma Project
+This project was developed as a graduation thesis and defended with the highest grade ("Excellent") at the Novocherkassk Polytechnic College.
+
+## 📫 Contact
+GitHub: GeorgiusMorphinez
+
+Email: alex09090909app.p@gmail.com
